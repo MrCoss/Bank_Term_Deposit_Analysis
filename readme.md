@@ -1,4 +1,4 @@
-# Bank Term Deposit Subscription Prediction
+# Client Subscribed to Term Deposit
 This project presents an end-to-end machine learning pipeline to predict whether a bank client will subscribe to a term deposit, based on historical marketing data. The solution includes comprehensive data cleaning, class imbalance handling with SMOTE, model training (Random Forest, XGBoost, Logistic Regression, Gradient Boosting), hyperparameter tuning, and export of a deployment-ready model with a detailed PDF report.
 
 ---
