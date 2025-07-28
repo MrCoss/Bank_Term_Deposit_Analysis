@@ -55,18 +55,18 @@ Bank_Term_Deposit_Analysis/
 
 ### Target Distribution
 
-![Target Distribution](<img width="1800" height="1200" alt="target_distribution" src="https://github.com/user-attachments/assets/36292893-612a-4aa9-a32b-892b798ace84" />
-)
+![Target Distribution]<img width="1800" height="1200" alt="target_distribution" src="https://github.com/user-attachments/assets/36292893-612a-4aa9-a32b-892b798ace84" />
+
 
 ### Feature Importance
 
-![Feature Importance](<img width="3000" height="1800" alt="feature_importance" src="https://github.com/user-attachments/assets/33962e44-723f-457c-b9e6-1a77d9ba7810" />
-)
+![Feature Importance]<img width="3000" height="1800" alt="feature_importance" src="https://github.com/user-attachments/assets/33962e44-723f-457c-b9e6-1a77d9ba7810" />
+
 
 ### Optimized Random Forest Confusion Matrix
 
-![Optimized RF](<img width="1800" height="1200" alt="optimized_rf_confusion_matrix" src="https://github.com/user-attachments/assets/4937dc00-ed43-41b9-97cd-53d6fab2fe0e" />
-)
+![Optimized RF]<img width="1800" height="1200" alt="optimized_rf_confusion_matrix" src="https://github.com/user-attachments/assets/4937dc00-ed43-41b9-97cd-53d6fab2fe0e" />
+
 
 ---
 
