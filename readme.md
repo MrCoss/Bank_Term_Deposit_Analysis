@@ -131,7 +131,7 @@ jupyter notebook Bank_Term_Deposit_Analysis.ipynb
 
 **Costas Pinto**
 MCA | AI-ML Enthusiast | Data Analytics Intern  
-[Skilled Mentor Internship | July–August 2025]
+Skilled Mentor Internship | July–August 2025
 
 ---
 
